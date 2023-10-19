@@ -1,7 +1,7 @@
-*{
+body{
     padding:0px;
     margin: 0px;
-   
+    background-color: #3eff37;
     
 }
 body{
@@ -33,9 +33,11 @@ header{
     
 
 }
+
 #inner{
+   
     border: 2px solid  #3eff37;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: medium;
     font-weight: bold;
     color: black;
@@ -45,9 +47,10 @@ header{
     letter-spacing: 1px;
     text-transform: uppercase;
     text-overflow: none;
+    padding-left: 10px;
 
     margin: 30px;
-    height: 20px;
+    height: 30px;
 }
 #count{
     width: 100px;
